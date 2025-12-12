@@ -1,0 +1,12 @@
+{
+  "version": "1.5.1",
+  "releaseDate": "2025-12-12",
+  "downloadUrl": "https://gumroad.com/l/quickssm",
+  "releaseNotes": [
+    "Broadcast Command: Terminal reuse for existing instances",
+    "Broadcast Command: Session state validation",
+    "Broadcast Command: Filter persistence across modal reopens",
+    "Broadcast Command: Accurate instance counts with filters",
+    "Improved user experience and performance"
+  ]
+}
