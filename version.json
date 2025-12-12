@@ -1,12 +1,11 @@
 {
-  "version": "1.5.1",
+  "version": "1.6.0",
   "releaseDate": "2025-12-12",
-  "downloadUrl": "https://gumroad.com/l/quickssm",
+  "downloadUrl": "https://github.com/enzopellegrino/quickssm-releases/releases/download/v1.6.0/QuickSSM-1.6.0-arm64.dmg",
   "releaseNotes": [
-    "Broadcast Command: Terminal reuse for existing instances",
-    "Broadcast Command: Session state validation",
-    "Broadcast Command: Filter persistence across modal reopens",
-    "Broadcast Command: Accurate instance counts with filters",
-    "Improved user experience and performance"
+    "License system: No trial - license required immediately",
+    "Update notification system with GitHub integration",
+    "Improved UI blocking for unlicensed users",
+    "Price updated to €9.99"
   ]
 }
