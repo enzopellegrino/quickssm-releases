@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "releaseDate": "2025-12-12",
-  "downloadUrl": "https://github.com/enzopellegrino/quickssm-releases/releases/download/v2.0.0/QuickSSM-2.0.0-arm64.dmg",
+  "downloadUrl": "https://github.com/enzopellegrino/quickssm-releases/releases/download/v2.0.1/QuickSSM-2.0.1-arm64.dmg",
   "releaseNotes": [
     "License system: No trial - license required immediately",
     "Update notification system with GitHub integration",
